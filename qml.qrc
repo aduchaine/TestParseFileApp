@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main_error.qml</file>
+        <file>main_update.qml</file>
+        <file>Resources/background.png</file>
+        <file>Pages/Test_001.qml</file>
+        <file>Pages/Test_000.qml</file>
+        <file>DefinedComponents/PreviousButton.qml</file>
+        <file>DefinedComponents/QuitButton.qml</file>
+        <file>DefinedComponents/StaticTransitions.qml</file>
+        <file>DefinedComponents/Transitions.qml</file>
+        <file>DefinedComponents/NextButton.qml</file>
+        <file>DefinedComponents/GreyButton.qml</file>
+        <file>DefinedComponents/SplashPage.qml</file>
+        <file>StaticComponents/ButtonProp1.qml</file>
+        <file>StaticComponents/MouseProp1.qml</file>
+        <file>StaticComponents/ReadOnlyText.qml</file>
+        <file>StaticComponents/SLText.qml</file>
+        <file>StaticComponents/Spacer.qml</file>
+        <file>StaticComponents/DDMenu.qml</file>
+        <file>StaticComponents/DropDownMenu.qml</file>
+        <file>SupportComponents/InterpageProcesses.qml</file>
+        <file>SupportComponents/WriteLineText.qml</file>
+        <file>SupportComponents/KeyboardProp1.qml</file>
+    </qresource>
+</RCC>

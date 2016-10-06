@@ -1,0 +1,38 @@
+[09-18-2016 :: 22:43:52] [ERROR] reparse == true - FUNC_ID_96:SUB_STATUS_1:CODE_-557417880
+[09-18-2016 :: 23:29:45] [ERROR] ERROR GetInputData: Unable to open file.
+    uiprocess.cpp
+[09-20-2016 :: 04:42:11] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 04:44:30] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 04:45:37] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 04:48:07] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 04:49:11] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 04:50:23] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 04:50:56] [ERROR] Invalid status (5): check program logic
+[09-20-2016 :: 05:30:58] [ERROR] Invalid Parse Directive: (-1)
+[09-20-2016 :: 05:39:33] [ERROR] Invalid Parse Directive: (-1)
+[09-20-2016 :: 06:19:53] [ERROR] Program Issue: cannot continue - FUNC_ID_19:SUB_STATUS_5:CODE_0
+[09-20-2016 :: 06:22:19] [ERROR] Program Issue: cannot continue - FUNC_ID_19:SUB_STATUS_5:CODE_0
+[09-20-2016 :: 06:25:57] [ERROR] Program Issue: cannot continue - FUNC_ID_19:SUB_STATUS_5:CODE_0
+[09-20-2016 :: 06:26:21] [ERROR] Program Issue: cannot continue - FUNC_ID_19:SUB_STATUS_5:CODE_0
+[09-20-2016 :: 06:33:53] [ERROR] Program Issue: cannot continue - FUNC_ID_19:SUB_STATUS_5:CODE_0
+[09-20-2016 :: 06:42:25] [ERROR] Reparse error: only one directive code can be processed - code count(2)
+[09-20-2016 :: 06:42:25] [ERROR] Reparse error: only one directive code can be processed - code count(2)
+[09-20-2016 :: 06:48:42] [ERROR] Reparse error: only one directive code can be processed - code count(2)
+[09-20-2016 :: 06:48:42] [ERROR] Reparse error: only one directive code can be processed - code count(2)
+[09-20-2016 :: 06:50:39] [ERROR] Program Issue: cannot continue - FUNC_ID_19:SUB_STATUS_5:CODE_0
+[09-20-2016 :: 07:11:17] [ERROR] Invalid Parse Directive: (-1)
+[09-21-2016 :: 21:23:42] [ERROR]     ERROR finding page ID assigned to component.
+[09-21-2016 :: 21:23:42] [ERROR]     ERROR finding page ID assigned to component.
+[09-21-2016 :: 21:31:29] [ERROR]     ERROR finding page ID assigned to component.
+[09-21-2016 :: 21:31:29] [ERROR]     ERROR finding page ID assigned to component.
+[09-22-2016 :: 05:19:41] [ERROR] Reparse error: only one directive code can be processed - code count(2)
+[09-22-2016 :: 05:24:42] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes(14 19 )
+[09-22-2016 :: 06:58:26] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes(14 20 )
+[09-22-2016 :: 07:02:23] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes(14 20 )
+[09-22-2016 :: 07:03:24] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes(14 20 )
+[09-22-2016 :: 07:06:53] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes(14 20 )
+[09-22-2016 :: 07:19:03] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes(14 20 )
+[09-22-2016 :: 07:25:43] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes< 14 20 >
+[09-22-2016 :: 07:29:52] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes< 14 20 >
+[09-22-2016 :: 07:34:34] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes< 14 20 >
+[09-22-2016 :: 07:39:59] [ERROR] Reparse error: only one directive code can be processed - code count(2) codes< 14 22 >

@@ -1,0 +1,21 @@
+[09-06-2016 :: 06:26:00] [UILog] GetDirectories:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp
+[09-06-2016 :: 06:26:00] [UILog] GetDirectories:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\
+[09-06-2016 :: 06:26:00] [UILog] GetDirectories:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\Lists\
+[09-06-2016 :: 06:26:00] [UILog] GetDirectories:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\Prompts\
+[09-06-2016 :: 06:26:00] [UILog] GetDirectories:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\Responses\
+[09-06-2016 :: 06:26:00] [UILog]  LoadFileData: directory C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\Lists\
+[09-06-2016 :: 06:26:00] [UILog] LoadFieldData:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\Prompts\prompts.txt
+[09-06-2016 :: 06:26:00] [UILog] LoadFieldData:
+ C:\Users\Dude\Documents\Development\Qt_development\TestParseFileApp\DataFiles\Responses\responses.txt
+[09-06-2016 :: 06:26:00] [UILog] 		...file data successfully moved to internal memory.
+[09-06-2016 :: 06:26:00] [UILog] dynamic_data: Preparing data...
+[09-06-2016 :: 06:32:14] [UILog] 		...file data successfully moved to internal memory.
+[09-06-2016 :: 06:32:14] [UILog] dynamic_data: Preparing data...
+[09-06-2016 :: 06:33:15] [UILog] 		...file data successfully moved to internal memory.
+[09-06-2016 :: 06:33:15] [UILog] dynamic_data: Preparing data...

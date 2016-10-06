@@ -1,0 +1,3 @@
+Welcome to ParseFile.
+This is a parsing framework designed to allow easy integration of directives to parse data within the machine's file system.
+Please choose a directive type.
